@@ -10,7 +10,7 @@ def double_number(a):
 
 
 def square_number(a):
-     '''Squaring of the same number.
+    '''Squaring of the same number.
     param int a'''
     print(f'value before square_number(): {a}')
     result=a*a
